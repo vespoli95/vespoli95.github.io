@@ -9,4 +9,5 @@ orangeexchange.com, 45678, RESELLER
 
 silverssp.com, ABE679, RESELLER
 
-google.com, ca-app-pub-3335799351913570~4628417820, DIRECT
+
+google.com, pub-3335799351913570, DIRECT, f08c47fec0942fa0
